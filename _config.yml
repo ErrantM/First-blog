@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 清风明月的个人博客
-subtitle: '文章列表'
+title: errantM
+subtitle: '清风明月逍遥游的个人博客'
 description: ''
 keywords:
 author: 清风明月逍遥游
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
